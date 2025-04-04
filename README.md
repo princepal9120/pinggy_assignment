@@ -128,7 +128,3 @@ The implementation includes robust error handling for:
 - Add support for more complex job parameters
 - Create a graphical interface for monitoring system state
 - Implement worker health monitoring and automatic restart
-
-## License
-
-[Insert your preferred license information here]
